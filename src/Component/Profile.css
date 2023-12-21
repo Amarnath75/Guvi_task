@@ -1,0 +1,62 @@
+/* Profile.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .profile-wrapper {
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  .buttonn {
+    background-color: #4caf50;
+    width: 250px;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    text-decoration: none;
+  }
+
+  
+  .buttonn {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .buttonn:hover {
+    background-color: #45a049;
+  }
+  
